@@ -22,7 +22,7 @@
 ![HTML5](https://img.shields.io/badge/Learning-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/Learning-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Interests
+### Linterests
 
 ![Artificial Intelligence](https://img.shields.io/badge/Interest-Artificial%20Intelligence-FF4081?style=for-the-badge&logo=openai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/Interest-LLMs-3F51B5?style=for-the-badge&logo=openai&logoColor=white)
