@@ -1,30 +1,26 @@
-<table>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="sable.gif" width="300" style="border: none;">
-    </td>
-    <td style="vertical-align: top; padding-left: 20px;">
-      <h1 style="font-size: 24px; margin: 0;">Welcome to my GitHub! 🐾 </h1>
-      <p style="font-size: 16px; margin: 10px 0 0 0;">idk what to put here, but helo >:3</p>
-    </td>
-  </tr>
-</table>
+<img src="rowan-sable-sable.gif" width="1000" />
 
----
+Welcome to my GitHub! 🐾<br/>
+idk what to put here, but helo >:3
 
-### Languages
-![Java](https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=java&logoColor=black)
-![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=black)
+<details>
+  <summary>more details about me</summary>
 
+## 💻 Languages
+[![Java Badge](https://img.shields.io/badge/java-%23007396?style=flat&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![Python Badge](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
-### Learning
-![C++](https://img.shields.io/badge/Learning-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/Learning-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/Learning-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 📚 Learning
+[![C++ Badge](https://img.shields.io/badge/c%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![HTML5 Badge](https://img.shields.io/badge/html5-%23E34F26?style=flat&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
+[![CSS3 Badge](https://img.shields.io/badge/css3-%231572B6?style=flat&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 
-### Linterests
-![Artificial Intelligence](https://img.shields.io/badge/Interest-Artificial%20Intelligence-FF4081?style=for-the-badge&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/Interest-LLMs-3F51B5?style=for-the-badge&logo=openai&logoColor=white)
-![Locally Hosted AI](https://img.shields.io/badge/Interest-Locally%20Hosted%20AI-4CAF50?style=for-the-badge&logo=fontawesome&logoColor=white&labelColor=gray)
+## 🧠 Interests
+[![Artificial Intelligence Badge](https://img.shields.io/badge/artificial%20intelligence-FF4081?style=flat&logo=openai&logoColor=white)](https://openai.com/)
+[![LLMs Badge](https://img.shields.io/badge/llms-3F51B5?style=flat&logo=openai&logoColor=white)](https://openai.com/)
+[![Locally Hosted AI Badge](https://img.shields.io/badge/locally%20hosted%20ai-4CAF50?style=flat&logo=homeassistant&logoColor=white)](https://github.com/)
+</details>
 
----
+------
+[github](https://github.com/yourusername). [other-link](https://yourwebsite.com).<br/>
+contact: `yourname [at] domain.com`. [discord: @yourusername](https://discord.com/)
